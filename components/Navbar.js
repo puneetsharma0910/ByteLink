@@ -35,7 +35,7 @@ const Navbar = () => {
             </button>
           </Link>
 
-          <Link href="/github">
+          <Link href="https://github.com/puneetsharma0910">
             <button className="border border-white px-5 py-2 rounded-full font-bold hover:bg-white hover:text-purple-700 transition-all">
               GitHub
             </button>
